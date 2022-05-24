@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on ... KuBIT
-- 🌱 I’m currently learning ... Full-Stack Development with React.js and ASP.NET Core
+- 🔭 I’m currently working at ... Tauto
+- 🌱 I’m currently learning ... Blockchain Development with Solidity
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Anything
 - 💬 Ask me about ... Anything
